@@ -1,4 +1,4 @@
-<%@ page contentType="text/html; charset=UTF-8" %>
+<%@ page contentType="text/html; charset=utf-8" %>
 <%@taglib uri="http://www.springframework.org/tags/form" prefix="form"%>
 <jsp:useBean id="command" class="com.ktao.controller.Material" scope="request" ></jsp:useBean>
 
